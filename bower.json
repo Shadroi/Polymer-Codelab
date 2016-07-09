@@ -1,0 +1,22 @@
+{
+  "name": "polymer-codelab",
+  "description": "awesome codelab learning polymer yay",
+  "main": "",
+  "authors": [
+    "Shad ROi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-fab": "PolymerElements/paper-fab#^1.2.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7",
+    "google-map": "GoogleWebComponents/google-map#^1.1.10"
+  }
+}
